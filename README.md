@@ -34,6 +34,7 @@ Weather-App/
 │
 ├── index.html
 ├── style.css
+├── package.json
 ├── script.js
 ├── images/
 │   └── weather icons
